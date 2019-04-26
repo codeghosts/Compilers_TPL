@@ -81,7 +81,7 @@ extern FILE *fp;
 extern Token_Type token;
 extern int e;
 extern int row;
-extern char Program_Len[100]; //store  characters  that are read from a file
+extern char Program_Len[100]; //store  characters  
 
 
 void Next_Char();
